@@ -25,9 +25,11 @@
 }
 
 .form__error {
-  height: 20px;
+  height: auto;
   color: #ff0000;
   text-align: left;
+  font-size: 0.875rem;
+
 }
 
 .form__input--text input {
